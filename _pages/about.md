@@ -13,10 +13,10 @@ I am very fortunate to cooperate with [Prof. Lu Lu](https://lugroup.yale.edu/) a
 
 Email: pengpengxiao008@gmail.com / [Github](https://github.com/pengpeng-xiao) / Wechat: luuuuu7771303
 
-Please find my publication here:
+### Pulication
 
-- <font size=3> __Pengpeng Xiao__, Muqing Zheng, Anran Jiao, Xiu Yang, and Lu Lu. "Quantum DeepONet: Neural Operators Accelerated by Quantum Computing." arXiv, 2024. https://arxiv.org/abs/2409.15683. Submitted to *Quantum*. </font>
-- <font size=3> __Pengpeng Xiao__, Phillip Si, Peng Chen. "LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Sparse Data Assimilation" In preparation for ICML2025. </font>
+- __Pengpeng Xiao__, Muqing Zheng, Anran Jiao, Xiu Yang, and Lu Lu. "Quantum DeepONet: Neural Operators Accelerated by Quantum Computing." arXiv, 2024. https://arxiv.org/abs/2409.15683. Submitted to *Quantum*. 
+- __Pengpeng Xiao__, Phillip Si, Peng Chen. "LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Sparse Data Assimilation" In preparation for ICML2025.
 
 ### Update
 - **[10/2024]** I presented a [poster](https://github.com/pengpeng-xiao/pengpeng-xiao.github.io/raw/master/files/Poster_Quantum_DeepONet.pdf) on quantum DeepONet on [SIAM MDS](https://www.siam.org/conferences-events/siam-conferences/mds24/) at Atlanta!
