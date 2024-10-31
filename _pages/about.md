@@ -19,6 +19,6 @@ Email: pengpengxiao008@gmail.com / [Github](https://github.com/pengpeng-xiao) / 
 - __Pengpeng Xiao__, Phillip Si, Peng Chen. "LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Sparse Data Assimilation" In preparation for ICML2025.
 
 ### Update
-- **[10/2024]** I presented a [poster](https://github.com/pengpeng-xiao/pengpeng-xiao.github.io/raw/master/files/Poster_Quantum_DeepONet.pdf) on quantum DeepONet on [SIAM MDS](https://www.siam.org/conferences-events/siam-conferences/mds24/) at Atlanta!
-- **[10/2024]** I presented a talk on LD-EnSF on [ROM+ML4LES+](https://math.emory.edu/site/romml4les/) at Emory!
+- **[10/2024]** Presented a [poster](https://github.com/pengpeng-xiao/pengpeng-xiao.github.io/raw/master/files/Poster_Quantum_DeepONet.pdf) on quantum DeepONet on [SIAM MDS](https://www.siam.org/conferences-events/siam-conferences/mds24/) at Atlanta!
+- **[10/2024]** Gave a talk on LD-EnSF on [ROM+ML4LES+](https://math.emory.edu/site/romml4les/) at Emory!
 - **[09/2024]** My first paper [Quantum DeepONet](https://arxiv.org/abs/2409.15683) on *arxiv*!
