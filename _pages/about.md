@@ -15,8 +15,8 @@ Email: pengpengxiao008@gmail.com / [Github](https://github.com/pengpeng-xiao) / 
 
 ### Pulication
 
-- __Pengpeng Xiao__, Muqing Zheng, Anran Jiao, Xiu Yang, and Lu Lu. "Quantum DeepONet: Neural Operators Accelerated by Quantum Computing." arXiv, 2024. https://arxiv.org/abs/2409.15683. Submitted to *Quantum*. 
-- __Pengpeng Xiao__, Phillip Si, Peng Chen. "LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Sparse Data Assimilation" In preparation for ICML2025.
+- __Pengpeng Xiao__, Muqing Zheng, Anran Jiao, Xiu Yang, and Lu Lu. "Quantum DeepONet: Neural Operators Accelerated by Quantum Computing." arXiv, 2024. [https://arxiv.org/abs/2409.15683](https://arxiv.org/abs/2409.15683). Submitted to *Quantum*, currently under minor revision. 
+- __Pengpeng Xiao__, Phillip Si, Peng Chen. "LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Fast Data Assimilation with Sparse Observations." arXiv, 2024. [https://arxiv.org/abs/2409.15683](https://arxiv.org/abs/2411.19305).
 
 ### Update
 - **[10/2024]** Presented a [poster](https://github.com/pengpeng-xiao/pengpeng-xiao.github.io/raw/master/files/Poster_Quantum_DeepONet.pdf) on quantum DeepONet on [SIAM MDS](https://www.siam.org/conferences-events/siam-conferences/mds24/) at Atlanta!
